@@ -6,7 +6,7 @@ A minimal userscript that immediately attempts to close this exact page:
 
 ## Install
 
-Install the script from Greasy Fork, or import [`outputs/ThankYouForTheForcedAd.user.js`](outputs/ThankYouForTheForcedAd.user.js) into Tampermonkey or Violentmonkey.
+Install from [Greasy Fork](https://greasyfork.org/zh-CN/scripts/594712-extra-tools-pack-crack-page-closer), or import [`outputs/ThankYouForTheForcedAd.user.js`](outputs/ThankYouForTheForcedAd.user.js) into Tampermonkey or Violentmonkey.
 
 Repository: [creamtea47/extra-tools-pack-crack-page-closer](https://github.com/creamtea47/extra-tools-pack-crack-page-closer)
 
